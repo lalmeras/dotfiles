@@ -1,4 +1,1 @@
-- vars:
-    pkg_mgr: auto
-    packages:
-      - vim-enhanced
+- vars: {}
