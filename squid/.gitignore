@@ -1,8 +1,0 @@
-cache/*
-log/*
-run/*
-ssl_db/
-ssl_cert/*
-squid.conf
-
-!.gitkeep
